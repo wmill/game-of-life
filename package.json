@@ -1,0 +1,20 @@
+{
+  "name": "@wmill/game-of-life",
+  "version": "1.0.0",
+  "description": "Quick game of life implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "babel-jest": "^29.7.0",
+    "@babel/preset-typescript": "^7.23.3",
+    "jest": "^29.7.0"
+  }
+}
